@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Ghassan James
 
-<!--
-**ghassan-james/ghassan-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Développeur Web & Logiciel Junior
 
-Here are some ideas to get you started:
+Je suis diplômé d'une licence en informatique et passionné par le développement web, les bases de données et l'automatisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+
+- PHP
+- Python
+- Java
+- JavaScript
+- HTML / CSS
+- SQL / MySQL
+- WordPress
+- WooCommerce
+- Git
+- Linux
+
+## 🚀 Ce que je développe
+
+- Applications web
+- Outils d'automatisation en Python
+- Sites e-commerce
+- Plugins WordPress
+- Bases de données MySQL
+
+## 📂 Projets
+
+🔹 NetBoard (PHP/MySQL)
+
+🔹 Plugin WordPress
+
+🔹 Scripts Python d'audit
+
+🔹 PizzaDelArte
+
+🔹 Jeu Python
+
+## 📫 Contact
+
+📍 France
+
+💼 LinkedIn (à venir)
