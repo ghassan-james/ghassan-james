@@ -78,7 +78,7 @@ Jeu développé avec **Pygame** permettant de mettre en pratique la gestion des 
 
 ## 🎯 Actuellement
 
-Je continue à développer mes compétences et à construire des projets autour du **développement web et logiciel**.
+Je poursuis actuellement mes études en Master et je continue à développer mes compétences en développement web, logiciel et bases de données.
 
 ---
 
