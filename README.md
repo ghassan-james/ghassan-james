@@ -62,11 +62,11 @@ Scripts Python utilisant notamment **pandas** pour analyser des catalogues produ
 📁 Dépôt GitHub bientôt disponible.
 
 ### 🍕 PizzaDelArte
-Application Java orientée objet de gestion de pizzas.
+Application JavaFX orientee objet de gestion de pizzas, commandes, clients et evaluations.
 
-Le projet met en pratique l'encapsulation, l'héritage, le polymorphisme et l'organisation du code en classes et packages.
+Le projet met en pratique Java, JavaFX, la programmation orientee objet, les collections et les tests JUnit.
 
-📁 Dépôt GitHub bientôt disponible.
+[Voir le projet](https://github.com/ghassan-james/pizza-del-arte)
 
 ### 🎮 Jeu Python
 Jeu développé avec **Pygame** permettant de mettre en pratique la gestion des entrées clavier, des collisions et de la progression.
