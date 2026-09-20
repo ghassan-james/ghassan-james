@@ -46,12 +46,10 @@ Gestion des utilisateurs, des rôles, des salles, des réservations et des indis
 
 [Voir le projet](https://github.com/ghassan-james/skillrooms)
 
-### 🖥️ NetBoard
-Application web développée avec **PHP et MySQL** permettant la gestion et l'affichage dynamique d'informations.
+### 🕒 Time Classe
+Application web développée en PHP et MySQL pour la gestion d'actualités, de sujets, de fiches et d'utilisateurs.
 
-Fonctionnalités principales : authentification, gestion des rôles, actualités, catégories et interface d'administration.
-
-📁 Dépôt GitHub bientôt disponible.
+[Voir le projet](https://github.com/ghassan-james/time-classe)
 
 ### 🔌 Plugin WordPress
 Plugin développé en **PHP** dans le cadre de mon expérience professionnelle pour automatiser certaines opérations liées à WordPress et WooCommerce.
