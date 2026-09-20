@@ -51,16 +51,17 @@ Application web développée en PHP et MySQL pour la gestion d'actualités, de s
 
 [Voir le projet](https://github.com/ghassan-james/time-classe)
 
-### 🔌 Plugin WordPress
-Plugin développé en **PHP** dans le cadre de mon expérience professionnelle pour automatiser certaines opérations liées à WordPress et WooCommerce.
+### 🛒 WooCommerce Catalog Tools
+Ensemble de plugins WooCommerce et d'outils Python développés pour automatiser la gestion et le contrôle de catalogues produits.
 
-📁 Dépôt GitHub bientôt disponible.
+- Audit automatique de catalogues WooCommerce
+- Comparaison de deux catalogues par UGS
+- Détection des différences de prix, statuts et catégories
+- Vérification des liens cassés
+- Génération de rapports Excel et HTML
+- Plugins WordPress / WooCommerce en PHP
 
-### 🐍 Outils d'audit Python
-Scripts Python utilisant notamment **pandas** pour analyser des catalogues produits, comparer des données et détecter des liens incorrects.
-
-📁 Dépôt GitHub bientôt disponible.
-
+🔗 [Voir le projet](https://github.com/ghassan-james/woocommerce-catalog-tools)
 ### 🍕 PizzaDelArte
 Application JavaFX orientee objet de gestion de pizzas, commandes, clients et evaluations.
 
