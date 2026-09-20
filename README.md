@@ -68,11 +68,17 @@ Le projet met en pratique Java, JavaFX, la programmation orientee objet, les col
 
 [Voir le projet](https://github.com/ghassan-james/pizza-del-arte)
 
-### 🎮 Jeu Python
-Jeu développé avec **Pygame** permettant de mettre en pratique la gestion des entrées clavier, des collisions et de la progression.
+### 🎮 Sokoban Arcade
+Jeu de puzzle développé en Python avec une interface graphique moderne.
 
-📁 Dépôt GitHub bientôt disponible.
----
+- 140 niveaux
+- 7 univers visuels
+- Système de score et chronomètre
+- Sélection des niveaux
+- Thèmes : Classique, Prairie, Canyon, Volcan, Glace, Ciel et Espace
+- Interface modernisée avec Tkinter / CustomTkinter
+
+🔗 [Voir le projet](https://github.com/ghassan-james/sokoban-python)
 
 ## 🎯 Actuellement
 
