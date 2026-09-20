@@ -81,16 +81,17 @@ Jeu de puzzle développé en Python avec une interface graphique moderne.
 
 🔗 [Voir le projet](https://github.com/ghassan-james/sokoban-python)
 
-### 🛍️ Boutique e-commerce Shopify
-Création et personnalisation d'une boutique e-commerce avec Shopify.
+### 🛍️ Shopify E-commerce Store
+Création et personnalisation d'une boutique e-commerce avec Shopify et le thème Dawn.
 
-- Configuration du thème Dawn
 - Personnalisation de la page d'accueil
-- Création des menus et de la navigation
-- Mise en place des collections et produits
-- Configuration des sections visuelles
-- Adaptation de l'affichage mobile
-- Paramétrage de la boutique et de l'expérience utilisateur
+- Configuration de la navigation
+- Mise en place des collections
+- Configuration de la livraison et des paiements
+- Personnalisation du design
+- Adaptation mobile
+
+🔗 [Voir le projet](https://github.com/ghassan-james/shopify-ecommerce-store)
 
 ## 🎯 Actuellement
 
